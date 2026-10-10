@@ -2,7 +2,7 @@
 emv:
   # Sections layout
   ha-view-sections-column-min-width: 260px
-  ha-view-sections-column-gap: 8px
+  ha-view-sections-column-gap: 16px
   ha-view-sections-narrow-column-gap: 8px
 
   # Journal
